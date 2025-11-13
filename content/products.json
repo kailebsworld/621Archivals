@@ -1,0 +1,34 @@
+[
+  {
+    "id": "drop-01-tee",
+    "title": "Drop 01 Tee",
+    "price": 48,
+    "tag": "drop 01",
+    "images": ["/content/images/drop-01-tee.svg"],
+    "description": "Short-run tee printed on midweight cotton. boxy fit."
+  },
+  {
+    "id": "archive-cap",
+    "title": "Archive Cap",
+    "price": 34,
+    "tag": "archival",
+    "images": ["/content/images/archive-cap.svg"],
+    "description": "Structured cap with embroidered label. one size adjustable."
+  },
+  {
+    "id": "sticker-set",
+    "title": "Sticker Set",
+    "price": 12,
+    "tag": "drop 01",
+    "images": ["/content/images/sticker-set.svg"],
+    "description": "Set of 6 risograph stickers. matte finish."
+  },
+  {
+    "id": "zine-issue-1",
+    "title": "Zine — Issue 1",
+    "price": 18,
+    "tag": "zine",
+    "images": ["/content/images/zine-issue-1.svg"],
+    "description": "A 24-page saddle-stitched zine of short essays and images."
+  }
+]

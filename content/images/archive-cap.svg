@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#f6f6f5"/>
+  <circle cx="400" cy="300" r="160" fill="#fff" stroke="#070707" stroke-width="6"/>
+  <text x="260" y="330" fill="#070707" font-family="Inter, sans-serif" font-size="28">ARCHIVE CAP</text>
+</svg>

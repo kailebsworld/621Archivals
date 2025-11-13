@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="80" y="80" width="640" height="560" fill="#f6f6f5" stroke="#070707" stroke-width="6"/>
+  <text x="120" y="480" fill="#070707" font-family="Inter, sans-serif" font-size="28" font-weight="600">DROP 01 TEE</text>
+</svg>
